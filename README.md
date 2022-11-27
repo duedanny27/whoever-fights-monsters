@@ -2,7 +2,7 @@
 Give me the folder of the web version of the game on github.
 
 
- 遊戲名稱：《與怪物戰鬥者》
+遊戲名稱：《與怪物戰鬥者》
 製作版本：MZ
 遊戲類型：劇情向角色扮演遊戲
 遊戲風格：奇幻、科幻、戰鬥、SCP基金會系列二次創作、選擇導向
